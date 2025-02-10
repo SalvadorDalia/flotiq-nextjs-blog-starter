@@ -84,10 +84,10 @@
     prettier "^3.3.3"
     yargs "^17.7.2"
 
-"@flotiq/nextjs-addon@^0.1.2":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@flotiq/nextjs-addon/-/nextjs-addon-0.1.2.tgz#54ba94f63468f0feb22da0106ebdd10a6420fcb5"
-  integrity sha512-5BHg6fCHY4sqjax5jeFFLNrwRdYju4upWt6sTbI2wDc3aEC2159ILG7791z2nUitz0bkuEK854Hgjfd3SzpfhA==
+"@flotiq/nextjs-addon@^0.1.3":
+  version "0.1.3"
+  resolved "https://registry.yarnpkg.com/@flotiq/nextjs-addon/-/nextjs-addon-0.1.3.tgz#84d7e60a647ff9bce82756673d64c308351125f4"
+  integrity sha512-cNTm954Fwju5q8GksHqLrIRx+PoMz12NPnNXT3Aqo6ZMU5MMPLnd/VxkuRYLXcnMenWmGP7JHJuRdiUeUOQdMQ==
 
 "@humanfs/core@^0.19.1":
   version "0.19.1"
